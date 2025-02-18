@@ -60,6 +60,7 @@ query = r"""
 """
 res = duckdb.sql(query).fetchall()
 print(res)
+# result: [('mocha', '.00\naverage'), ('flat white', '.50, average'), ('vanilla latte', '.50\n\nexpensive')]
 
 # Notes:
 # we should probably choose a model depending on the specific task
