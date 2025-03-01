@@ -3,6 +3,7 @@ from duckdb.typing import *
 from huggingface_hub import InferenceClient
 import os
 import sys
+import pyarrow.compute as pc
 
 # prompt/model specified UDF
 def llm_model(prompt, model, /, *attributes):
@@ -59,8 +60,10 @@ def llm_task(prompt, task, /, *attributes):
             if i != n_attrs - 1:
                 llm_prompt += ", "
         
+        print(llm_prompt)
+        
         if task == "text-generation":
-            return client.text_generation(llm_prompt)
+            return client.text_generation(llm_prompt, max_new_tokens=5)
         elif task == "text-classification":
             return client.text_classification(llm_prompt)
         elif task == "summarization":
@@ -72,8 +75,16 @@ def llm_task(prompt, task, /, *attributes):
     except Exception as e:
         print(e)
         return "error: must specify a valid prompt and task"
+    
+# batching UDF
+def llm_batch(prompt, model, /, *attributes):
+    # prompt and model are a constant vector
+
+    # feed into llm and return result as a vector
+    return pc.add(attributes[1], 1)
 
 
 # register UDFs
 duckdb.create_function("llm_model", llm_model, return_type=VARCHAR)
 duckdb.create_function("llm_task", llm_task, return_type=VARCHAR)
+duckdb.create_function("llm_batch", llm_batch, return_type=VARCHAR, type="arrow")

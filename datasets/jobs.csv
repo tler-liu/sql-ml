@@ -1,20 +1,187 @@
 company, role, description
-Google, Software Engineer III AI/ML, "About the jobGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.
+Amazon, Software Development Engineer - Amazon Traffic Engineering, "Description
 
-Google Ads is helping power the open internet with the best technology that connects and creates value for people, publishers, advertisers, and Google. We’re made up of multiple teams, building Google’s Advertising products including search, display, shopping, travel and video advertising, as well as analytics. Our teams create trusted experiences between people and businesses with useful ads. We help grow businesses of all sizes from small businesses, to large brands, to YouTube creators, with effective advertiser tools that deliver measurable results. We also enable Google to engage with customers at scale.
+Edge Fabric in Amazon Traffic Engineering enables managed internet ingress for Amazon retail and non-retail customer experiences. We protect Amazon’s valued assets with world-class DDoS countermeasures, delight our customers with a responsive first mile, and run zero-trust perimeter security to mitigate threats at their source. We enable Stores builders with frictionless on-ramp, simplified operations and observability, with advanced controls where necessary. On behalf of our customers, we obsess over latency, availability, threat detection, and mitigation.
 
-The US base salary range for this full-time position is $136,000-$200,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
+Our team is starting new projects in compute and platform solutions at the edge to take Amazon to the next level in scale and security. If you love building high performance software that's focused on best-in-class architecture, data processing, and security, we have the job for you.
+
+The ideal candidate is a champion of engineering excellence and improves quality, consistency, maintainability, performance, and security with every code commit. In addition, he/she contributes elegant, practical code that solves the most difficult problems at Amazon scale.
+
+There are no limits to the contribution and impact this role can have, so get ready to make history!
+
+About The Team
+
+Our team is embarking on a journey to develop the next generation of internet traffic management software that protects customers experience. Your work will be highly visible and is instrumental in helping Amazon serve record breaking amounts everyday including flagship events such as Prime Day. If you love building high performance software that's focused on best-in-class networking, data processing, security, and leverages AWS technologies, we have the job for you.
+
+Basic Qualifications
+
+ 3+ years of non-internship professional software development experience
+ 2+ years of non-internship design or architecture (design patterns, reliability and scaling) of new and existing systems experience
+ Experience programming with at least one software programming language
+
+Preferred Qualifications
+
+ 3+ years of full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations experience
+ Bachelor's degree in computer science or equivalent
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.
+
+Los Angeles County applicants: Job duties for this position include: work safely and cooperatively with other employees, supervisors, and staff; adhere to standards of excellence despite stressful conditions; communicate effectively and respectfully with employees, supervisors, and staff to ensure exceptional customer service; and follow all federal, state, and local laws and Company policies. Criminal history may have a direct, adverse, and negative relationship with some of the material job duties of this position. These include the duties and responsibilities listed above, as well as the abilities to adhere to company policies, exercise sound judgment, effectively manage stress and work safely and respectfully with others, exhibit trustworthiness and professionalism, and safeguard business operations and the Company’s reputation. Pursuant to the Los Angeles County Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records.
+
+Our inclusive culture empowers Amazonians to deliver the best results for our customers. If you have a disability and need a workplace accommodation or adjustment during the application and hiring process, including support for the interview or onboarding process, please visit https://amazon.jobs/content/en/how-we-hire/accommodations for more information. If the country/region you’re applying in isn’t listed, please contact your Recruiting Partner.
+
+Our compensation reflects the cost of labor across several US geographic markets. The base pay for this position ranges from $129,300/year in our lowest geographic market up to $223,600/year in our highest geographic market. Pay is based on a number of factors including market location and may vary depending on job-related knowledge, skills, and experience. Amazon is a total compensation company. Dependent on the position offered, equity, sign-on payments, and other forms of compensation may be provided as part of a total compensation package, in addition to a full range of medical, financial, and/or other benefits. For more information, please visit https://www.aboutamazon.com/workplace/employee-benefits. This position will remain posted until filled. Applicants should apply via our internal or external career site."
+
+
+
+
+
+Google, Senior Software Engineer - AI/ML Natural Language Processing, "The application window will be open until at least January 26, 2025. This opportunity will remain online based on business needs which may be before or after the specified date.
+
+Note: By applying to this position you will have an opportunity to share your preferred working location from the following: Atlanta, GA, USA; Austin, TX, USA; Boulder, CO, USA; Cambridge, MA, USA; Chicago, IL, USA; Addison, TX, USA; Houston, TX, USA; Miami, FL, USA; New York, NY, USA; Reston, VA, USA; Seattle, WA, USA; San Francisco, CA, USA; Sunnyvale, CA, USA.Minimum qualifications:
+
+Bachelor’s degree or equivalent practical experience.
+5 years of experience with software development in one or more programming languages, and with data structures/algorithms.
+3 years of experience testing, maintaining, or launching software products, and 1 year of experience with software design and architecture.
+3 years of experience with Natural Language Processing (NLP) concepts, algorithms, and experience in designing NLP solutions.
+3 years of experience with ML infrastructure (e.g., model deployment, model evaluation, optimization, data processing, debugging).
+
+Preferred qualifications:
+
+Master's degree or PhD in Computer Science or related technical field.
+1 year of experience in a technical leadership role.
+Experience developing accessible technologies.
+
+About the jobGoogle's software engineers develop the next-generation technologies that change how billions of users connect, explore, and interact with information and one another. Our products need to handle information at massive scale, and extend well beyond web search. We're looking for engineers who bring fresh ideas from all areas, including information retrieval, distributed computing, large-scale system design, networking and data storage, security, artificial intelligence, natural language processing, UI design and mobile; the list goes on and is growing every day. As a software engineer, you will work on a specific project critical to Google’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need our engineers to be versatile, display leadership qualities and be enthusiastic to take on new problems across the full-stack as we continue to push technology forward.Google Cloud accelerates every organization’s ability to digitally transform its business and industry. We deliver enterprise-grade solutions that leverage Google’s cutting-edge technology, and tools that help developers build more sustainably. Customers in more than 200 countries and territories turn to Google Cloud as their trusted partner to enable growth and solve their most critical business problems.
+
+The US base salary range for this full-time position is $161,000-$239,000 + bonus + equity + benefits. Our salary ranges are determined by role, level, and location. The range displayed on each job posting reflects the minimum and maximum target salaries for the position across all US locations. Within the range, individual pay is determined by work location and additional factors, including job-related skills, experience, and relevant education or training. Your recruiter can share more about the specific salary range for your preferred location during the hiring process.
 
 Please note that the compensation details listed in US role postings reflect the base salary only, and do not include bonus, equity, or benefits. Learn more about benefits at Google .
 
 Responsibilities
 
-Write product or system development code.
+Write and test product or system development code. 
 Collaborate with peers and stakeholders through design and code reviews to ensure best practices amongst available technologies (e.g., style guidelines, checking code in, accuracy, testability, and efficiency,)
 Contribute to existing documentation or educational content and adapt content based on product/program updates and user feedback.
 Triage product or system issues and debug/track/resolve by analyzing the sources of issues and the impact on hardware, network, or service operations and quality.
-Implement solutions in one or more specialized machine learning areas, utilize machine learning infrastructure, and contribute to model optimization and data processing."
-Capital One, Senior AI Engineer, "Overview:
+Design and implement NLP solutions, leverage ML infrastructure, and contribute to model optimization and data processing.
+
+
+Google is proud to be an equal opportunity workplace and is an affirmative action employer. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status. We also consider qualified applicants regardless of criminal histories, consistent with legal requirements. See also Google's EEO Policy and EEO is the Law. If you have a disability or special need that requires accommodation, please let us know by completing our Accommodations for Applicants form ."
+
+
+
+
+
+Oracle, Software Engineer Intern, "Job Description
+
+The Program:
+
+Our future success depends on hiring world-class, early in career talent who are looking to power next-generation services and solutions. We are hiring bachelor’s students with a diverse set of skills and experiences to work in and across multiple teams. Our program is intended to enhance your overall learning experience, help build your network, and accelerate your opportunity to make an impact. Create the future with us!
+
+The Team:
+
+Oracle's Global Licensing and Advisory Services- GLAS- is a customer facing licensing and investment support organization that incorporates the critical areas of end-to-end value, customer experience, and industry best practice, to manage change and ensure the best outcomes.
+
+The Company:
+
+Oracle is the world’s leading provider of business software. With a presence in over 175 countries, we are one of the biggest technology companies on the planet. We're using innovative emerging technologies to tackle real-world problems today. From advancing energy efficiency to reimagining online commerce, the work we do is not only redefining the world of business—it's helping advance governments, power nonprofits, and giving billions of people the tools they need to outpace change. For more information about Oracle (NYSE:ORCL), visit us at oracle.com.
+
+What You’ll Do: 
+
+We are seeking best-in-class interns with the expertise and passion for solving challenging unique problems under the GLAS Operations Software Development Team. You will have the opportunity to work on real projects from day one, gaining a breadth of real-world experience.
+
+The role will provide an opportunity to participate in various development projects and exposure to various groups within the Ops team. The projects will include working on strategic software implementation and development initiatives.
+
+What You’ll Bring:
+
+Will be enrolled in a Bachelor’s or Master’s degree program in Computer Science, Computer Engineering, Information Systems or Information Technology or an equivalent science/engineering field during the 2025-2026 school year.
+Have completed at least your sophomore year toward your undergraduate degree, or higher, by summer 2025.
+Are proficient (i.e., able to complete coding projects with no assistance) in at least one of the following programming languages:
+Java, Python, SQL, JavaScript
+Have completed coursework, projects, internships, and or research in Object-Oriented Programming/Design.
+Attend a university in the US.
+Able to acquire work authorization in the US in 2025.
+Detail oriented self-starter and teachable.
+Excellent attention to detail with large datasets.
+Troubleshooting and problem-solving.
+Goal-oriented and capable of completing projects on time with minimal supervision.
+Interest in Enterprise development.
+
+No visa sponsorship is available for this position.
+
+If you are interested in working at Oracle and you have more than 2 years of professional full-time work experience (excluding internships, research and/or teaching assistant roles, and/or military experience), please apply to Oracle’s experienced job openings. For information on currently open positions at Oracle, please visit  http://oracle.com/goto/careers
+
+How To Apply
+
+Visit Oracle.com/Campus > Quick Apply >
+
+Interns are hired as Oracle Temporary employees whose full or part-time assignments generally range from a two-week minimum to six months, with a one-year maximum. The company makes no express or implied commitment that your temporary employment will have a minimum or fixed term as employment with Oracle is at-will.
+
+Oracle is an Equal Employment Opportunity Employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans status or any other characteristic protected by law.
+
+As part of Oracle's standard employment process, candidates undergo a complete background check prior to an offer being extended. These background checks are conducted by a professional third party firm at no charge to you and include: prior employment verification, education verification, social security trace, criminal background check and motor vehicles records (where required for position).
+
+Career Level - IC0
+
+Qualifications
+
+Disclaimer:
+
+Certain US customer or client-facing roles may be required to comply with applicable requirements, such as immunization and occupational health mandates.
+
+Range and benefit information provided in this posting are specific to the stated locations only
+
+US: Hiring Range in USD from $18.99 - $53.00 per hour; from: $39,500 - $110,240 per year.
+
+Oracle maintains broad salary ranges for its roles in order to account for variations in knowledge, skills, experience, market conditions and locations, as well as reflect Oracle’s differing products, industries and lines of business.
+
+Candidates are typically placed into the range based on the preceding factors as well as internal peer equity.
+
+Oracle US offers a comprehensive benefits package which includes the following:
+
+ Medical, dental, and vision insurance, including expert medical opinion
+ Short term disability and long term disability
+ Life insurance and AD&D
+ Supplemental life insurance (Employee/Spouse/Child)
+ Health care and dependent care Flexible Spending Accounts
+ Pre-tax commuter and parking benefits
+ 401(k) Savings and Investment Plan with company match
+ Paid time off: Flexible Vacation is provided to all eligible employees assigned to a salaried (non-overtime eligible) position. Accrued Vacation is provided to all other employees eligible for vacation benefits. For employees working at least 35 hours per week, the vacation accrual rate is 13 days annually for the first three years of employment and 18 days annually for subsequent years of employment. Vacation accrual is prorated for employees working between 20 and 34 hours per week. Employees working fewer than 20 hours per week are not eligible for vacation.
+ 11 paid holidays
+ Paid sick leave: 72 hours of paid sick leave upon date of hire. Refreshes each calendar year. Unused balance will carry over each year up to a maximum cap of 112 hours.
+ Paid parental leave
+ Adoption assistance
+ Employee Stock Purchase Plan
+ Financial planning and group legal
+ Voluntary benefits including auto, homeowner and pet insurance
+
+
+The role will generally accept applications for at least three calendar days from the posting date or as long as the job remains posted.
+
+About Us
+
+As a world leader in cloud solutions, Oracle uses tomorrow’s technology to tackle today’s problems. True innovation starts with diverse perspectives and various abilities and backgrounds.
+
+When everyone’s voice is heard, we’re inspired to go beyond what’s been done before. It’s why we’re committed to expanding our inclusive workforce that promotes diverse insights and perspectives.
+
+We’ve partnered with industry-leaders in almost every sector—and continue to thrive after 40+ years of change by operating with integrity.
+
+Oracle careers open the door to global opportunities where work-life balance flourishes. We offer a highly competitive suite of employee benefits designed on the principles of parity and consistency. We put our people first with flexible medical, life insurance and retirement options. We also encourage employees to give back to their communities through our volunteer programs.
+
+We’re committed to including people with disabilities at all stages of the employment process. If you require accessibility assistance or accommodation for a disability at any point, let us know by calling +1 888 404 2494, option one.
+
+Disclaimer:
+
+Oracle is an Equal Employment Opportunity Employer*. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, national origin, sexual orientation, gender identity, disability and protected veterans’ status, or any other characteristic protected by law. Oracle will consider for employment qualified applicants with arrest and conviction records pursuant to applicable law.
+
+ Which includes being a United States Affirmative Action Employer"
+
+
+
+
+
+ Capital One, Lead AI Engineer, "Overview:
 
 At Capital One, we are creating responsible and reliable AI systems, changing banking for good. For years, Capital One has been an industry leader in using machine learning to create real-time, personalized customer experiences. Our investments in technology infrastructure and world-class talent — along with our deep experience in machine learning — position us to be at the forefront of enterprises leveraging AI. From informing customers about unusual charges to answering their questions in real time, our applications of AI & ML are bringing humanity and simplicity to banking. We are committed to continuing to build world-class applied science and engineering teams to deliver our industry leading capabilities with breakthrough product experiences and scalable, high-performance AI infrastructure. At Capital One, you will help bring the transformative power of emerging AI capabilities to reimagine how we serve our customers and businesses who have come to love the products and services we build.
 
@@ -28,10 +195,416 @@ In this role, you will:
  Design, develop, test, deploy, and support AI software components including foundation model training, large language model inference, similarity search, guardrails, model evaluation, experimentation, governance, and observability, etc. 
  Leverage a broad stack of Open Source and SaaS AI technologies such as AWS Ultraclusters, Huggingface, VectorDBs, Nemo Guardrails, PyTorch, and more. 
  Invent and introduce state-of-the-art LLM optimization techniques to improve the performance — scalability, cost, latency, throughput — of large scale production AI systems. 
- Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One. The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+ Contribute to the technical vision and the long term roadmap of foundational AI systems at Capital One. 
 
-McLean, VA: $158,600 - $181,000 for Senior Software Engineer
+The Ideal Candidate:
 
-Richmond, VA: $144,200 - $164,600 for Senior Software Engineer
+ You love to build systems, take pride in the quality of your work, and also share our passion to do the right thing. You want to work on problems that will help change banking for good. 
+ Passion for staying abreast of the latest research, and an ability to intuitively understand scientific publications and judiciously apply novel techniques in production. 
+ You adapt quickly and thrive on bringing clarity to big, undefined problems. You love asking questions and digging deep to uncover the root of problems and can articulate your findings concisely with clarity. You have the courage to share new ideas even when they are unproven. 
+ You are deeply Technical. You possess a strong foundation in engineering and mathematics, and your expertise in hardware, software, and AI enable you to see and exploit optimization opportunities that others miss. 
+ You are a resilient trail blazer who can forge new paths to achieve business goals when the route is unknown. 
 
-Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter."
+Basic Qualifications:
+
+ Bachelor's degree in Computer Science, Engineering, or AI plus at least 4 years of experience developing AI and ML algorithms or technologies, or Master's degree plus at least 2 years of experience developing AI and ML algorithms or technologies 
+ At least 4 years of experience programming with Python, Go, Scala, or Java 
+
+Preferred Qualifications:
+
+ 6 years of experience deploying scalable and responsible AI solutions on cloud platforms (e.g. AWS, Google Cloud, Azure, or equivalent private cloud) 
+ Experience designing, developing, delivering, and supporting AI services 
+ Experience developing AI and ML algorithms or technologies (e.g. LLM Inference, Similarity Search and VectorDBs, Guardrails, Memory) using Python, C++, C#, Java, or Golang 
+ Master's degree in Computer Science, Computer Engineering, or relevant technical field 
+ Experience developing and applying state-of-the-art techniques for optimizing training and inference software to improve hardware utilization, latency, throughput, and cost 
+ Passion for staying abreast of the latest AI research and AI systems, and judiciously apply novel techniques in production 
+
+Capital One will consider sponsoring a new qualified applicant for employment authorization for this position.
+
+The minimum and maximum full-time annual salaries for this role are listed below, by location. Please note that this salary information is solely for candidates hired to perform work within one of these locations, and refers to the amount Capital One is willing to pay at the time of this posting. Salaries for part-time roles will be prorated based upon the agreed upon number of hours to be regularly worked.
+
+Boston, MA: $193,400 - $220,700 for Lead AI Engineer
+
+McLean, VA: $193,400 - $220,700 for Lead AI Engineer
+
+New York, NY: $211,000 - $240,800 for Lead AI Engineer
+
+Plano, TX: $175,800 - $200,700 for Lead AI Engineer
+
+Richmond, VA: $175,800 - $200,700 for Lead AI Engineer
+
+San Francisco, CA: $211,000 - $240,800 for Lead AI Engineer
+
+Candidates hired to work in other locations will be subject to the pay range associated with that location, and the actual annualized salary amount offered to any candidate at the time of hire will be reflected solely in the candidate’s offer letter.
+
+This role is also eligible to earn performance based incentive compensation, which may include cash bonus(es) and/or long term incentives (LTI). Incentives could be discretionary or non discretionary depending on the plan.
+
+Capital One offers a comprehensive, competitive, and inclusive set of health, financial and other benefits that support your total well-being. Learn more at the Capital One Careers website . Eligibility varies based on full or part-time status, exempt or non-exempt status, and management level.
+
+This role is expected to accept applications for a minimum of 5 business days.No agencies please. Capital One is an equal opportunity employer committed to diversity and inclusion in the workplace. All qualified applicants will receive consideration for employment without regard to sex (including pregnancy, childbirth or related medical conditions), race, color, age, national origin, religion, disability, genetic information, marital status, sexual orientation, gender identity, gender reassignment, citizenship, immigration status, protected veteran status, or any other basis prohibited under applicable federal, state or local law. Capital One promotes a drug-free workplace. Capital One will consider for employment qualified applicants with a criminal history in a manner consistent with the requirements of applicable laws regarding criminal background inquiries, including, to the extent applicable, Article 23-A of the New York Correction Law; San Francisco, California Police Code Article 49, Sections 4901-4920; New York City’s Fair Chance Act; Philadelphia’s Fair Criminal Records Screening Act; and other applicable federal, state, and local laws and regulations regarding criminal background inquiries.
+
+If you have visited our website in search of information on employment opportunities or to apply for a position, and you require an accommodation, please contact Capital One Recruiting at 1-800-304-9102 or via email at RecruitingAccommodation@capitalone.com . All information you provide will be kept confidential and will be used only to the extent required to provide needed reasonable accommodations.
+
+For technical support or questions about Capital One's recruiting process, please send an email to Careers@capitalone.com
+
+Capital One does not provide, endorse nor guarantee and is not liable for third-party products, services, educational tools or other information available through this site.
+
+Capital One Financial is made up of several different entities. Please note that any position posted in Canada is for Capital One Canada, any position posted in the United Kingdom is for Capital One Europe and any position posted in the Philippines is for Capital One Philippines Service Corp. (COPSSC)."
+
+
+
+
+
+
+
+Samsung Semicondoctor, Staff Engineer - AI/ML Software Compiler, "Please Note
+
+To provide the best candidate experience amidst our high application volumes, each candidate is limited to 10 applications across all open jobs within a 6-month period.
+
+Advancing the World’s Technology Together
+
+Our technology solutions power the tools you use every day--including smartphones, electric vehicles, hyperscale data centers, IoT devices, and so much more. Here, you’ll have an opportunity to be part of a global leader whose innovative designs are pushing the boundaries of what’s possible and powering the future.
+
+We believe innovation and growth are driven by an inclusive culture and a diverse workforce. We’re dedicated to empowering people to be their true selves. Together, we’re building a better tomorrow for our employees, customers, partners, and communities.
+
+What You’ll Do
+
+The AGI (Artificial General Intelligence) Computing Lab is dedicated to solving the complex system-level challenges posed by the growing demands of future AI/ML workloads. Our team is committed to designing and developing scalable platforms that can effectively handle the computational and memory requirements of these workloads while minimizing energy consumption and maximizing performance. To achieve this goal, we collaborate closely with both hardware and software engineers to identify and address the unique challenges posed by AI/ML workloads and to explore new computing abstractions that can provide a better balance between the hardware and software components of our systems. Additionally, we continuously conduct research and development in emerging technologies and trends across memory, computing, interconnect, and AI/ML, ensuring that our platforms are always equipped to handle the most demanding workloads of the future. By working together as a dedicated and passionate team, we aim to revolutionize the way AI/ML applications are deployed and executed, ultimately contributing to the advancement of AGI in an affordable and sustainable manner. Join us in our passion to shape the future of computing!
+
+Location: Hybrid, working onsite at our office 3 days per week with the flexibility to work remotely the remainder of your time
+
+Reports to: VP
+
+Design and implement ML compilers for high-performance deep learning applications.
+Optimize compilers for efficient execution of deep learning models on various hardware platforms.
+Design a staged lowering infrastructure to meet rapidly evolving workload requirements effectively.
+Design an algorithm to optimize data locality to minimize energy consumption.
+Work closely with hardware architects and developers to integrate new ML techniques and algorithms into the compiler.
+Collaborate with cross-functional teams to define and deliver ML compiler features and improvements.
+Troubleshoot and debug compiler issues, and provide technical support to customers.
+Contribute to the development of ML compiler documentation and user guides.
+Stay up-to-date with the latest trends and advancements in the field of ML compilers and hardware.
+
+What You Bring
+
+BS in Computer/Electrical Engineering or Computer Science with 10+ years of working experiences in silicon development or MS in Computer/Electrical Engineering or Computer Science with 8+ years of relevant working experience or PhD and 5+ years of relevant working experience preferred.
+Strong background in compiler design and optimization techniques.
+Experiences in developing and optimizing software for high-performance computing systems
+Experiences in LLVM / MLIR (preferred)
+Familiarity with PyTorch, Tensorflow, or JAX.
+Familiarity with hardware architectures such as CPUs, GPUs, TPUs, and NPUs.
+Strong analytical and problem-solving skills
+Excellent communication and interpersonal skills
+Ability to work independently and as part of a team
+You’re inclusive, adapting your style to the situation and diverse global norms of our people.
+An avid learner, you approach challenges with curiosity and resilience, seeking data to help build understanding.
+You’re collaborative, building relationships, humbly offering support and openly welcoming approaches.
+Innovative and creative, you proactively explore new ideas and adapt quickly to change.
+
+What We Offer
+
+The pay range below is for all roles at this level across all US locations and functions. Individual pay rates depend on a number of factors—including the role’s function and location, as well as the individual’s knowledge, skills, experience, education, and training. We also offer incentive opportunities that reward employees based on individual and company performance.
+
+This is in addition to our diverse package of benefits centered around the wellbeing of our employees and their loved ones. In addition to the usual Medical/Dental/Vision/401k, our inclusive rewards plan empowers our people to care for their whole selves. An investment in your future is an investment in ours.
+
+Give Back With a charitable giving match and frequent opportunities to get involved, we take an active role in supporting the community.
+
+Enjoy Time Away You’ll start with 4+ weeks of paid time off a year, plus holidays and sick leave, to rest and recharge.
+
+Care for Family Whatever family means to you, we want to support you along the way—including a stipend for fertility care or adoption, medical travel support, and an errand service.
+
+Prioritize Emotional Wellness With on-demand apps and paid therapy sessions, you’ll have support no matter where you are.
+
+Stay Fit Eating well and being active are important parts of a healthy life. Our onsite Café and gym, plus virtual classes, make it easier.
+
+Embrace Flexibility Benefits are best when you have the space to use them. That’s why we facilitate a flexible environment so you can find the right balance for you.
+
+Base Pay Range
+
+$157,000—$243,000 USD
+
+Equal Opportunity Employment Policy 
+
+Samsung Semiconductor takes pride in being an equal opportunity workplace dedicated to fostering an environment where all individuals feel valued and empowered to excel, regardless of race, religion, color, age, disability, sex, gender identity, sexual orientation, ancestry, genetic information, marital status, national origin, political affiliation, or veteran status.
+
+When selecting team members, we prioritize talent and qualities such as humility, kindness, and dedication. We extend comprehensive accommodations throughout our recruiting processes for candidates with disabilities, long-term conditions, neurodivergent individuals, or those requiring pregnancy-related support. All candidates scheduled for an interview will receive guidance on requesting accommodations.
+
+Recruiting Agency Policy
+
+We do not accept unsolicited resumes. Only authorized recruitment agencies that have a current and valid agreement with Samsung Semiconductor, Inc. are permitted to submit resumes for any job openings.
+
+Covid-19 Policy
+
+To help keep our employees, customers, and communities safe, we've developed guidelines for our team. Currently, we encourage vaccination for all employees and may require it depending on job functions (e.g., traveling for business, meeting with customers). While visiting our offices or attending team events, we ask employees to complete a daily health questionnaire and complete a weekly COVID test. Our COVID policies are subject to change depending on public health, regulatory, and business circumstances.
+"
+
+
+
+
+
+Adobe, 2025 Intern - Machine Learning Engineer, "Our Company
+
+Changing the world through digital experiences is what Adobe’s all about. We give everyone—from emerging artists to global brands—everything they need to design and deliver exceptional digital experiences! We’re passionate about empowering people to create beautiful and powerful images, videos, and apps, and transform how companies interact with customers across every screen.
+
+We’re on a mission to hire the very best and are committed to creating exceptional employee experiences where everyone is respected and has access to equal opportunity. We realize that new ideas can come from everywhere in the organization, and we know the next big idea could be yours!
+
+The Opportunity
+
+Adobe is looking for a Machine Learning intern who will apply AI and machine learning techniques to big-data problems to help Adobe better understand, lead and optimize the experience of its customers.
+
+By using predictive models, experimental design methods, and optimization techniques, the candidate will be working on the research and development of exciting projects like real-time online media optimization, sales operation analytics, customer churn scoring and management, customer understanding, product recommendation and customer lifetime value prediction.
+
+All 2025 Adobe interns will be co-located hybrid. This means that interns will work between their assigned office and home. Interns will be based in the office where their manager and/or team are located , where they will get the most support to ensure collaboration and the best employee experience. Managers and their organization will determine the frequency they need to go into the office to meet priorities. 
+
+What You’ll Do
+
+ Develop predictive models on large-scale datasets to address various business problems with statistical modeling, machine learning, and analytics techniques. 
+ Develop and implement scalable, efficient, and interpretable modeling algorithms that can work with large-scale data in production systems 
+ Collaborate with product management and engineering groups to develop new products and features. 
+
+What You Need To Succeed
+
+ Currently enrolled full time and pursuing a Master’s or PhD degree in Computer Science, Computer Engineering; or equivalent experience required with an expected graduation date of December 2025 – June 2026 
+ Good understanding of statistical modeling, machine learning, deep learning, or data analytics concepts. 
+ Proficient in one or more programming languages such as Python, Java and C 
+ Familiar with one or more machine learning or statistical modeling tools such as R, Matlab and scikit learn 
+ Strong analytical and quantitative problem-solving ability. 
+ Excellent communication, relationship skills and a team player 
+ Ability to participate in a full-time internship between May-September 
+
+Our compensation reflects the cost of labor across several  U.S. geographic markets, and we pay differently based on those defined markets. The U.S. pay range for this position is $45.00 -- $55.00 hourly. Your recruiter can share more about the specific pay rate for your job location during the hiring process.Adobe will consider qualified applicants with arrest or conviction records for employment in accordance with state and local laws and “fair chance” ordinances.
+
+Adobe is proud to be an Equal Employment Opportunity and affirmative action employer. We do not discriminate based on gender, race or color, ethnicity or national origin, age, disability, religion, sexual orientation, gender identity or expression, veteran status, or any other applicable characteristics protected by law. Learn more.
+
+Adobe aims to make Adobe.com accessible to any and all users. If you have a disability or special need that requires accommodation to navigate our website or complete the application process, email accommodations@adobe.com or call (408) 536-3015.
+
+Adobe values a free and open marketplace for all employees and has policies in place to ensure that we do not enter into illegal agreements with other companies to not recruit or hire each other’s employees."
+
+
+
+
+
+
+
+
+Nvidia, Software Engineer Intern, "By submitting your resume, you’re expressing interest in one of our 2025 Software Engineering I nternship s. We ’ll review resumes on an ongoing basis, and a recruiter may reach out if your experience fits one of our many internship opportunities . 
+
+NVIDIA pioneered accelerated computing to tackle challenges no one else can solve. Our work in AI and digital twins is transforming the world's largest industries and profoundly impacting society — from gaming to robotics, self-driving cars to life-saving healthcare, climate change to virtual worlds where we can all connect and create.
+
+Our internships offer an excellent opportunity to expand your career and get hands on with one of our industry leading Software teams. We’re seeking strategic, ambitious, hard-working, and creative individuals who are passionate about helping us tackle challenges no one else can solve.
+
+Throughout the minimum 12-week internship, students will work on projects that have a measurable impact on our business. We’re looking for students pursuing Bachelor's, Master's, or PhD degree within a relevant or related field.
+
+Potential Internships In This Field Include
+
+Development Tools
+
+ Debugging complex system-level issues using Jenkin s 
+ Course or internship experience related to the following areas could be required : Relational Databases, Linear Algebra & Numerical Methods, Operating Systems (memory/resource management), Scheduling and Process Control, Hardware Virtualization 
+
+Cloud
+
+ Supporting overall architecture and design of our cloud storage infrastructure 
+ Implementing and troubleshooting storage and data platform tools, automating storage infrastructure end-to-end 
+ Course or internship experience related to the following areas could be required : Distributed Systems, Data Structures & Algorithms, Virtualization, Automation/Scripting, Container & Cluster Management, Debugging 
+
+Tools Infrastructure
+
+ Building industry leading technology by proving workflows and infrastructure, alon gside a team of experts in production software developm ent and chip design methodologies 
+ Enabling success for content running on the chip from application tracing and analysis to modeling, diagnostics, performance tuning, and debugging 
+ Course or internship experience related to the following areas and technologies could be required : Unix/Shell Scripting, Linux, Java, JavaScript (including Node, React, Vue) , C++, CUDA, OOP, Go, Python, Git, GitLab, Perforce, Kubernetes and M icroservices, Schedulers (LSF, SLURM), Containers (Docker), Configuration Automation (Ansible) 
+
+Data Science
+
+ S upporting cloud and on-premise infrastructure for backend analytics 
+ Working on diverse data technologies i ncluding , Kafka, ELK, Cassandra, and Spark 
+ Course or internship experience related to the following areas could be required : Data Science, Data Engineering, Open Source Data Science Tools, Open Source Libraries 
+
+What We Need To See
+
+ Currently pursuing a Bachelor's, Master's, or PhD degree within Computer Engineering, Electrical Engineering, Computer Science, or a related field 
+ Depending on the internship role, prior experience or knowledge requirements could include the following programming skills and technologies: Java, JavaScript, (including Node, React, Vue), SQL, C++ , CUDA, OOP, Go, Python, Git, Perforce, Kubernetes and Microservices, Schedulers (LSF, SLURM), Containers (Docker), Configuration Automation (Ansible) 
+
+Click here to learn more about NVIDIA, our early talent programs, benefits offered to students and other helpful student resources related to our latest technologies and endeavors .
+
+The hourly rate for our interns is 18 USD - 71 USD. Our internship hourly rates are a standard pay determined based on the position and your location, year in school, degree, and experience.
+
+You will also be eligible for Intern benefits .  NVIDIA accepts applications on an ongoing basis. 
+
+NVIDIA is committed to fostering a diverse work environment and proud to be an equal opportunity employer. As we highly value diversity in our current and future employees, we do not discriminate (including in our hiring and promotion practices) on the basis of race, religion, color, national origin, gender, gender expression, sexual orientation, age, marital status, veteran status, disability status or any other characteristic protected by law."
+
+
+
+
+
+
+
+
+
+Ai2, "Research Scientist, AllenNLP", "Who We Are: 
+
+We are a non-profit AI institute, focused on developing foundational AI research and innovation to deliver real-world impact through large-scale open models, data, and artifacts (e.g., OLMo, Tulu, Molmo).   We unite the best and brightest scientific and engineering minds to explore the potential of truly open AI. Through  our efforts, including the pioneering OLMo releases, we endeavor to empower academics, researchers, and AI developers more broadly to advance language models and generative AI models. Through close collaboration, we rapidly identify, define, and act on the most exciting and promising new ideas in AI.  
+
+Our team engages in a broad range of AI research, including pre-training and post-training language models, curating data to enhance AI across different modalities, and developing novel methodologies to push the field forward. We study and evaluate AI models both theoretically and empirically, aiming to advance their capabilities. Additionally, we create impactful real-world applications, such as in scientific synthesis. Our goal is to develop state-of-the-art models that excel in scientific discovery, reasoning, and factual recall.
+
+Who You Are:
+
+You are a creative, hands-on AI researcher with a strong foundation in AI and natural language processing. Passionate about pushing the boundaries of research and engineering, you seek to advance AI and language models both scientifically and openly. You thrive in collaborative environments, take initiative, and are eager to contribute to AI2’s impact-driven mission in a dynamic, fast-paced research setting. Skilled at translating complex concepts into concrete research goals and implementation steps, you define clear approaches, execute effectively, and communicate results with clarity. You leverage these skills to create real-world benefits for researchers and practitioners alike and are excited to help drive the development of the best-performing open AI model.
+
+What You Need:
+A PhD focusing on natural language processing, machine learning, or a related area, with expertise in one or more of the following: language models, reinforcement learning, experimental methodology, the science of deep learning, or efficient algorithms for deep learning.  Curiosity about all of the above is a plus.
+The ability to own and pursue a research agenda to improve AI models.
+Enthusiasm for collaboration and teamwork on ambitious projects aligned with company goals.
+Experience leading a team to solve analytical problems (a plus).
+Contributions to open-source research libraries and an interest in continuing such work (a plus).
+Your Next Challenge:
+
+As a key member of the core team of research scientists and machine learning engineers at AI2, you will drive the development of OLMo (Open Language Models) and related frameworks. In this role, you will lead foundational research to advance generative AI, shape our strategic direction, and lay the groundwork for future innovations. You will also work towards long-term ambitious research goals, while identifying intermediate milestones. 
+
+The essential functions include, but are not limited to the following:
+
+Contribute to AI2’s open source research environment to innovate,  study and advance the science of generative AI
+Take a leading role in building artifacts and implementing software systems with real-world impact
+Author and present high-quality scientific technical reports, papers, and presentations
+Collaborate with and learn from team members across AI2, including scientists and engineers
+Mentor early-career researchers and interns on their projects
+Develop collaborative relationships with relevant academic, industrial, government, and standards organizations
+Physical Demands and Work Environment:
+
+The physical demands described here are representative of those that must be met by a team member to successfully perform the essential functions of this position. Reasonable accommodations may be made to enable individuals with disabilities to perform the functions.
+
+Must be able to remain in a stationary position for long periods of time. 
+The ability to communicate information and ideas so others will understand. Must be able to exchange accurate information in these situations. 
+The ability to observe details at close range.
+Can work under deadlines.
+A Little More About AI2:
+
+The Allen Institute for Artificial Intelligence is a non-profit research institute in Seattle founded by Paul Allen. The core mission of AI2 is to contribute to humanity through high-impact research in artificial intelligence. 
+
+In addition to AI2’s core mission, we also aim to contribute to humanity through our treatment of each member of the AI2 Team. Some highlights are:
+
+We are a learning organization – because everything AI2 does is ground-breaking, we are learning every day. Similarly, through weekly AI2 Academy lectures, a wide variety of world-class AI experts as guest speakers, and our commitment to your personal on-going education, AI2 is a place where you will have opportunities to continue learning alongside your coworkers. 
+We value diversity - We seek to hire, support, and promote people from all genders, ethnicities, and all levels of experience regardless of age. We particularly encourage applications from women, non-binary individuals, people of color, members of the LGBTQA+ community, and people with disabilities of any kind. 
+We value inclusion - We understand the value that people's individual experiences and perspectives can bring to an organization, and we are building a culture in which all voices are heard, respected and considered.
+We emphasize a healthy work/life balance – we believe our team members are happiest and most productive when their work/life balance is optimized. While we value powerful research results which drive our mission forward, we also value dinner with family, weekend time, and vacation time. We offer generous paid vacation and sick leave as well as family leave.
+We are collaborative and transparent – we consider ourselves a team, all moving with a common purpose. We are quick to cheer our successes, and even quicker to share and jointly problem solve our failures.
+We are in Seattle – and our office is on the water! We have mountains, we have lakes, we have four seasons, we bike to work, we have a vibrant theater scene, and we have so much else. We even have kayaks for you to paddle right outside our front door. We welcome interest from applicants from outside of the United States.
+We are friendly– chances are you will like every one of the 200+ (and growing) people who work here. We do. 
+AI2 is proud to be an Equal Opportunity employer. We do not discriminate based upon race, religion, color, national origin, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics. You may view the related Know Your Rights compliance poster and the Pay Transparency Nondiscrimination Provision by clicking on their corresponding links. 
+
+This employer participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. If E-Verify cannot confirm that you are authorized to work, this employer is required to give you written instructions and an opportunity to contact the Department of Homeland Security (DHS) or Social Security Administration (SSA) so you can begin to resolve the issue before the employer can take any action against you, including terminating your employment. Employers can only use E-Verify once you have accepted a job offer and completed the Form I-9.
+
+We are committed to providing reasonable accommodations to employees and applicants with disabilities to the full extent required by the Americans with Disabilities Act (ADA). If you feel you need a reasonable accommodation pursuant to the ADA, you are encouraged to contact us at recruiting@allenai.org 
+
+Benefits: 
+
+Team members and their families are covered by medical, dental, vision, basic life insurance, basic accidental death and dismemberment insurance, short-term disability, long-term disability, and an employee assistance program. 
+Team members are able to enroll in our voluntary life insurance program, our voluntary accidental death and dismemberment program, our health savings account plan, our healthcare reimbursement arrangement plan, and our health care and dependent care flexible spending account plans. 
+Team members are able to enroll in our company’s 401k plan. 
+Team members will receive $125 per month to assist with commuting or internet expenses and will also receive $200 per month for fitness and wellbeing expenses.
+Team members will also receive up to ten sick days per year, up to seven personal days per year, up to 20 vacation days per year and twelve paid holidays throughout the calendar year.
+Team members will be able to receive annual bonuses and can participate in the long-term incentive plan."
+
+
+
+
+
+
+
+
+Databricks, "Software Engineer (2025 New Grad)", "At Databricks, we are passionate about helping data teams solve the world's toughest problems — from making the next mode of transportation a reality to accelerating the development of medical breakthroughs. We do this by building and running the world's best data and AI infrastructure platform so our customers can use deep data insights to improve their business. Founded by engineers and dedicated to our customers, we leap at every opportunity to solve technical challenges, from designing next-gen UI/UX for working with data to scaling our services and infrastructure across millions of virtual machines. And we're only getting started.
+
+As a software engineer, you will work with our engineering team to build infrastructure and products for the Databricks platform. We're hiring across all of our teams, including backend, full stack, infrastructure, databases, systems, tools, cloud, and customer-facing products. You will join a cohort of engineers who will build their careers through collaborative projects and learning opportunities. With a dedicated mentor and supportive team, you'll onboard quickly and start contributing to impactful projects soon after starting here at Databricks!
+
+The impact you will have:
+
+Work with a team to build features and improve architecture for the Databricks platform
+Develop and extend the Databricks product
+Own full software development lifecycle: design, development, testing, and operating in production
+Build solutions with a high level of reliability, scalability, and security
+What we look for:
+
+You will graduate in December 2024 or Spring 2025 with a degree in Computer Science, Engineering, or related subject
+You have implementation skills with a general purpose program language, such as Python, Java, or C++
+You have knowledge of algorithms, data structures, and OOP principles
+You have experience managing end-to-end projects
+We are hiring Software Engineer - New Grads across multiple offices. Please apply for the single location that you're the most interested in, and we will discuss more with you as you move through the process. We can only consider one application in 30 days. 
+
+About Databricks
+
+Databricks is the data and AI company. More than 10,000 organizations worldwide — including Comcast, Condé Nast, Grammarly, and over 50% of the Fortune 500 — rely on the Databricks Data Intelligence Platform to unify and democratize data, analytics and AI. Databricks is headquartered in San Francisco, with offices around the globe and was founded by the original creators of Lakehouse, Apache Spark™, Delta Lake and MLflow. To learn more, follow Databricks on Twitter, LinkedIn and Facebook.
+
+Benefits
+
+At Databricks, we strive to provide comprehensive benefits and perks that meet the needs of all of our employees. For specific details on the benefits offered in your region, please visit https://www.mybenefitsnow.com/databricks. 
+
+
+Our Commitment to Diversity and Inclusion
+
+At Databricks, we are committed to fostering a diverse and inclusive culture where everyone can excel. We take great care to ensure that our hiring practices are inclusive and meet equal employment opportunity standards. Individuals looking for employment at Databricks are considered without regard to age, color, disability, ethnicity, family or marital status, gender identity or expression, language, national origin, physical and mental ability, political affiliation, race, religion, sexual orientation, socio-economic status, veteran status, and other protected characteristics.
+
+Compliance
+
+If access to export-controlled technology or source code is required for performance of job duties, it is within Employer's discretion whether to apply for a U.S. government license for such positions, and Employer may decline to proceed with an applicant on this basis alone."
+
+
+
+
+
+
+
+Dropbox, Senior Data Scientist, "Company Description
+Dropbox isn’t just a workplace—it’s a living lab for more enlightened ways of working. We're a global community of more than 2,000 bold visionaries and resourceful doers who are shaping the future of Dropbox—and with it the future of work. Our Virtual First model combines the flexibility of a distributed workplace with the power of human connection, making space for both meaningful work and meaningful relationships. With our start-up mindset and enterprise-level opportunities, you can be who you are and grow into who you’re meant to be. Here, you can own your impact to make work more intuitive, joyful, and human—for you as a Dropboxer and for hundreds of millions of people worldwide. If you're ready to push boundaries—and yourself— Dropbox is ready for you.
+
+Team Description
+The Dropbox Data Science team transforms data into powerful insights that inform everything we do at Dropbox. Combining applied analytics techniques with deep business insights, we investigate user behavior, product performance, and market trends to uncover new opportunities for growth, optimization, and innovation. Our work is highly collaborative: we work closely with Revenue, Product, and Marketing teams to enable data-driven development and personalized customer solutions. It’s also highly creative, as we experiment to develop tools and dashboards that democratize insights across Dropbox. If you are driven by solving challenging problems and using the power of data to deliver impactful, user-centered products and services, join our Data Sciences team. Areas of work include Applied Analytics, Experimentation, Data Engineering, Machine Learning, Business Intelligence, Data Visualization, and Statistical Modeling.
+
+Role Description
+How many times do you get an opportunity to be at the ground floor on a very big and important mission?  What if you get to be one of the top contributors defining the mission, guiding our teams and influencing the direction of Dropbox AI-first mission?  As a Senior Data Scientist for this new division, you will exactly get to do that.  You will join a team of top-tier data scientists and be an inherent part of the product org to create and scale this new business.
+
+As a ground floor opportunity for this startup team, we need this senior DS to build a top-tier data-informed culture with a lot of focus on AI/ML impact and execution!
+
+Responsibilities
+You will partner closely with leads across all functions while being focused on the AI/ML team work - Product, Engineering, Design, and Research
+You will build the reliable, efficient, and scalable data foundations and daily execution standards, tools, and processes for our AI/ML capabilities’ long-term growth
+You will contribute to a culture of strong technical ownership, resulting in highly reliable products and services at scale
+You will leverage data-driven insights to proactively identify most impactful opportunities, and inform future experimentation design and product roadmaps
+You will perform analytical deep-dives to analyze AI related user problems and opportunities, identify the hypothesis and design & execute experiments with great rigor and efficient data techniques
+Requirements
+Bachelors’ or above in quantitative discipline: Statistics, Applied Mathematics, Economics, Computer Science, Engineering, or related field
+5-8+ years experience of leveraging data-driven analysis to influence key business decisions and executives, preferably in a tech company
+2+ years working with AI/ML related product teams, and having hands-on experiences to work with data scientists, engineers, product managers, user researchers, and designers
+Proven track record of being able to work independently and proactively engage with business stakeholders with minimal direction & driver measurable business impact
+Ability to influence prioritization and execution of high impact projects effecting customer experience, monetization, and entire organization’s roadmap
+Ability to provide data insights for 0-1 product even when sample size is small,  with a track record of driving directly measurable product or business impact. 
+Be proficient with SQL, Python and other coding languages frequently applied in the AI/ML production environment, with deep understanding of statistical analysis & experiment design
+Preferred Qualifications
+Have worked in startups or on true 0→ 1 products before
+Experiences with SaaS search, ranking, AI research, and etc
+Compensation
+Canada Pay Range
+$157,300—$212,700 CAD
+The range listed above is the expected annual salary/OTE for this role, subject to change.
+
+Salary/OTE is just one component of Dropbox’s total rewards package. All regular employees are also eligible for the corporate bonus program or a sales incentive (target included in OTE) as well as stock in the form of Restricted Stock Units (RSUs).
+
+Benefits
+Dropbox is committed to investing in the holistic health and wellbeing of all Dropboxers and their families. Our benefits and perks programs include, but are not limited to:
+
+Competitive medical, dental and vision coverage*
+Retirement savings through a defined contribution pension or savings plan**
+Flexible PTO/Paid Time Off policy in addition to statutory holidays, allowing you time to unplug, unwind, and refresh
+Income Protection Plans: Life and disability insurance*
+Business Travel Protection: Travel medical and accident insurance*
+Perks Allowance to be used on what matters most to you, whether that’s wellness, learning and development, food & groceries, and much more
+Parental benefits including: Parental Leave, Fertility Benefits, Adoptions and Surrogacy support, and Lactation support
+Mental health and wellness benefits
+Additional benefits details are available upon request.
+
+*Where group plans are not available, allowances may be provided
+
+**Benefit, amount, and type are dependent on geographical location, based upon applicable law or company policy
+
+ 
+
+Dropbox is an equal opportunity employer. We are a welcoming place for everyone, and we do our best to make sure all people feel supported and connected at work."

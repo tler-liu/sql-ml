@@ -1,0 +1,8 @@
+id,name,age,gender,location,team,workload,position,job_satisfaction,performance
+1,Bob,25,Male,Boston MA,engineering,5,developer,6,8
+2,Alice,27,Female,West Lafayette IN,sales,3,salesperson,8,4
+3,Charlie,23,Male,Los Angeles CA,marketing,7,marketer,5,7
+4,Diana,29,Female,New York NY,engineering,6,software architect,7,9
+5,Emily,26,Female,Chicago IL,product,4,product manager,9,5
+6,Frank,24,Male,Seattle WA,engineering,5,developer,2,6
+7,Gina,28,Female,Los Angeles CA,human resources,7,hr,4,2
