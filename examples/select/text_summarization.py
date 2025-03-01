@@ -13,4 +13,14 @@ def execute_query():
     res = duckdb.sql(query).fetchall()
     return res
 
+@timing
+def execute_query_batched():
+    query = r"""
+        SELECT company, role, llm_task_batch_local('please provide summary', 'summarization', description) 
+        FROM read_csv('./datasets/jobs.csv')
+    """
+    res = duckdb.sql(query).fetchall()
+    return res
+
 print(execute_query())
+print(execute_query_batched())
