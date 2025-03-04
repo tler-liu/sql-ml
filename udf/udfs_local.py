@@ -2,6 +2,7 @@ from transformers import pipeline
 import duckdb
 from duckdb.typing import *
 import pyarrow as pa
+import numpy as np
 
 def llm_task_local(prompt, task, /, *attributes):
     n_attrs = len(attributes)
@@ -21,7 +22,12 @@ def llm_task_local(prompt, task, /, *attributes):
             if i != n_attrs - 1:
                 llm_input += ", "
         
-        return generator(llm_input, max_new_tokens=30, do_sample=False)[0]['generated_text']
+        return generator(llm_input, max_new_tokens=200, do_sample=False)[0]['generated_text']
+    elif task == "zero-shot-classification": # only works with 1 attribute for now
+        classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+        labels = prompt.split(",")
+        res = classifier(attributes[0], labels, multi_label=False, do_sample=False)
+        return labels[np.argmax(res['scores'])]
     else:
         print(task, 'is unsupported')
 
@@ -50,8 +56,15 @@ def llm_task_batch_local(prompt, task, /, *attributes):
                     llm_input += ", "
             llm_input_vector.append(llm_input)
         
-        res = generator(llm_input_vector, max_new_tokens=30, do_sample=False)
+        res = generator(llm_input_vector, max_new_tokens=200, do_sample=False)
         pa_arr = pa.array([res[i]['generated_text'] for i in range(len(attributes[0]))])
+        return pa_arr
+    elif task == "zero-shot-classification": # only works with 1 attribute for now
+        classifier = pipeline("zero-shot-classification", model="facebook/bart-large-mnli")
+        prompt = prompt.to_pylist()[0]
+        labels = prompt.split(",")
+        res = classifier(attributes[0].to_pylist(), labels, multi_label=False, do_sample=False)
+        pa_arr = pa.array([labels[np.argmax(res[i]['scores'])] for i in range(len(attributes[0]))]) 
         return pa_arr
     else:
         print(task, 'is unsupported')

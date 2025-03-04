@@ -10,7 +10,7 @@ def execute_query():
         SELECT company, role, llm_task_local('please provide summary', 'summarization', description) 
         FROM read_csv('./datasets/jobs.csv')
     """
-    res = duckdb.sql(query).fetchall()
+    res = duckdb.sql(query).df()
     return res
 
 @timing
@@ -19,7 +19,7 @@ def execute_query_batched():
         SELECT company, role, llm_task_batch_local('please provide summary', 'summarization', description) 
         FROM read_csv('./datasets/jobs.csv')
     """
-    res = duckdb.sql(query).fetchall()
+    res = duckdb.sql(query).df()
     return res
 
 print(execute_query())
